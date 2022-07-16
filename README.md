@@ -40,3 +40,10 @@ neat table
 | Paragraph | Text | 
 
 [^1]: This is the footnote.
+
+## 2. images
+
+<figure markdown>
+![image title](img/pulseSurface.png){ width="300"}
+<figcaption><em>Figure 17: Expanding Surface Area of a Pulse</em></figcaption>
+</figure>
